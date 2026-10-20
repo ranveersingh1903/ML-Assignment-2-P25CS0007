@@ -1,0 +1,24 @@
+{
+  "student_name": "Ranvir Kumar Singh",
+  "roll_number": "P25CS0007",
+  "seed": 250007,
+  "n_train": 240,
+  "n_val": 80,
+  "n_test": 80,
+  "feature_dim": 4096,
+  "n_classes": 40,
+  "mask_region": {
+    "rows": [
+      24,
+      39
+    ],
+    "cols": [
+      24,
+      39
+    ],
+    "size": [
+      16,
+      16
+    ]
+  }
+}

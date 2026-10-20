@@ -1,0 +1,280 @@
+{
+  "toy_verification": {
+    "initial_weights": [
+      0.16666666666666666,
+      0.16666666666666666,
+      0.16666666666666666,
+      0.16666666666666666,
+      0.16666666666666666,
+      0.16666666666666666
+    ],
+    "predictions": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "weighted_error": 0.3333333333333333,
+    "alpha": 1.3862943611198908,
+    "updated_weights": [
+      0.08333333333333333,
+      0.08333333333333333,
+      0.08333333333333333,
+      0.08333333333333333,
+      0.33333333333333337,
+      0.33333333333333337
+    ]
+  },
+  "grid_search": [
+    {
+      "depth": 1,
+      "rounds": 10,
+      "train_acc": 0.05,
+      "val_acc": 0.0375,
+      "test_acc": 0.05,
+      "fit_time": 0.4506101608276367,
+      "n_actual_estimators": 10,
+      "stopped_early": false
+    },
+    {
+      "depth": 1,
+      "rounds": 25,
+      "train_acc": 0.05,
+      "val_acc": 0.05,
+      "test_acc": 0.05,
+      "fit_time": 1.1241958141326904,
+      "n_actual_estimators": 25,
+      "stopped_early": false
+    },
+    {
+      "depth": 1,
+      "rounds": 50,
+      "train_acc": 0.09583333333333334,
+      "val_acc": 0.0625,
+      "test_acc": 0.0625,
+      "fit_time": 2.2471020221710205,
+      "n_actual_estimators": 50,
+      "stopped_early": false
+    },
+    {
+      "depth": 1,
+      "rounds": 100,
+      "train_acc": 0.13333333333333333,
+      "val_acc": 0.125,
+      "test_acc": 0.125,
+      "fit_time": 4.5356409549713135,
+      "n_actual_estimators": 100,
+      "stopped_early": false
+    },
+    {
+      "depth": 2,
+      "rounds": 10,
+      "train_acc": 0.11666666666666667,
+      "val_acc": 0.075,
+      "test_acc": 0.0875,
+      "fit_time": 0.9005920886993408,
+      "n_actual_estimators": 10,
+      "stopped_early": false
+    },
+    {
+      "depth": 2,
+      "rounds": 25,
+      "train_acc": 0.15833333333333333,
+      "val_acc": 0.075,
+      "test_acc": 0.1,
+      "fit_time": 2.2745230197906494,
+      "n_actual_estimators": 25,
+      "stopped_early": false
+    },
+    {
+      "depth": 2,
+      "rounds": 50,
+      "train_acc": 0.2708333333333333,
+      "val_acc": 0.2,
+      "test_acc": 0.15,
+      "fit_time": 4.5510430335998535,
+      "n_actual_estimators": 50,
+      "stopped_early": false
+    },
+    {
+      "depth": 2,
+      "rounds": 100,
+      "train_acc": 0.325,
+      "val_acc": 0.175,
+      "test_acc": 0.2,
+      "fit_time": 9.14736795425415,
+      "n_actual_estimators": 100,
+      "stopped_early": false
+    },
+    {
+      "depth": 3,
+      "rounds": 10,
+      "train_acc": 0.3333333333333333,
+      "val_acc": 0.2,
+      "test_acc": 0.2375,
+      "fit_time": 1.3598296642303467,
+      "n_actual_estimators": 10,
+      "stopped_early": false
+    },
+    {
+      "depth": 3,
+      "rounds": 25,
+      "train_acc": 0.25416666666666665,
+      "val_acc": 0.1125,
+      "test_acc": 0.1125,
+      "fit_time": 3.3829948902130127,
+      "n_actual_estimators": 25,
+      "stopped_early": false
+    },
+    {
+      "depth": 3,
+      "rounds": 50,
+      "train_acc": 0.4166666666666667,
+      "val_acc": 0.225,
+      "test_acc": 0.2625,
+      "fit_time": 6.752780914306641,
+      "n_actual_estimators": 50,
+      "stopped_early": false
+    },
+    {
+      "depth": 3,
+      "rounds": 100,
+      "train_acc": 0.8625,
+      "val_acc": 0.3625,
+      "test_acc": 0.4,
+      "fit_time": 13.56119418144226,
+      "n_actual_estimators": 100,
+      "stopped_early": false
+    },
+    {
+      "depth": 4,
+      "rounds": 10,
+      "train_acc": 0.37916666666666665,
+      "val_acc": 0.1875,
+      "test_acc": 0.25,
+      "fit_time": 1.782135009765625,
+      "n_actual_estimators": 10,
+      "stopped_early": false
+    },
+    {
+      "depth": 4,
+      "rounds": 25,
+      "train_acc": 0.3875,
+      "val_acc": 0.225,
+      "test_acc": 0.2625,
+      "fit_time": 4.529184103012085,
+      "n_actual_estimators": 25,
+      "stopped_early": false
+    },
+    {
+      "depth": 4,
+      "rounds": 50,
+      "train_acc": 0.9708333333333333,
+      "val_acc": 0.4375,
+      "test_acc": 0.4125,
+      "fit_time": 8.932068109512329,
+      "n_actual_estimators": 50,
+      "stopped_early": false
+    },
+    {
+      "depth": 4,
+      "rounds": 100,
+      "train_acc": 1.0,
+      "val_acc": 0.6125,
+      "test_acc": 0.5875,
+      "fit_time": 17.92188024520874,
+      "n_actual_estimators": 100,
+      "stopped_early": false
+    }
+  ],
+  "selected_model": {
+    "depth": 4,
+    "rounds": 100,
+    "train_acc": 1.0,
+    "val_acc": 0.6125,
+    "test_acc": 0.5875,
+    "fit_time": 17.92188024520874
+  },
+  "comparison_rounds": [
+    {
+      "learners": 25,
+      "boosting": {
+        "train_acc": 0.7708333333333334,
+        "val_acc": 0.35,
+        "test_acc": 0.3625,
+        "time_sec": 4.453367710113525
+      },
+      "bagging": {
+        "train_acc": 1.0,
+        "val_acc": 0.775,
+        "test_acc": 0.7875,
+        "time_sec": 15.004158973693848
+      }
+    },
+    {
+      "learners": 50,
+      "boosting": {
+        "train_acc": 0.6791666666666667,
+        "val_acc": 0.275,
+        "test_acc": 0.3375,
+        "time_sec": 8.925238132476807
+      },
+      "bagging": {
+        "train_acc": 1.0,
+        "val_acc": 0.7875,
+        "test_acc": 0.8375,
+        "time_sec": 30.308528184890747
+      }
+    },
+    {
+      "learners": 100,
+      "boosting": {
+        "train_acc": 1.0,
+        "val_acc": 0.5375,
+        "test_acc": 0.5875,
+        "time_sec": 17.770977020263672
+      },
+      "bagging": {
+        "train_acc": 1.0,
+        "val_acc": 0.85,
+        "test_acc": 0.8875,
+        "time_sec": 60.02107286453247
+      }
+    }
+  ],
+  "heaviest_sample": {
+    "train_index": 55,
+    "true_class": 9,
+    "final_weight": 0.05376741233347593,
+    "misclassification_rate_in_rounds": 0.88
+  },
+  "clean_vs_masked_robustness": {
+    "dt": {
+      "clean_acc": 0.5875,
+      "clean_conf": 1.0,
+      "masked_acc": 0.3,
+      "masked_conf": 1.0
+    },
+    "bag": {
+      "clean_acc": 0.8875,
+      "clean_conf": 0.391375,
+      "masked_acc": 0.775,
+      "masked_conf": 0.29225
+    },
+    "boost": {
+      "clean_acc": 0.5875,
+      "clean_conf": 0.11140690630156355,
+      "masked_acc": 0.5,
+      "masked_conf": 0.11003728578571237
+    }
+  },
+  "differential_face": {
+    "test_index": 0,
+    "case_type": "Bagging Correct, Boosting Wrong on Masked",
+    "true_class": 0,
+    "bagging_pred": 0,
+    "boosting_pred": 4
+  }
+}
