@@ -66,7 +66,7 @@
   #v(0.4em)
   #text(9pt)[
     *GitHub Repository:* #link("https://github.com/ranvir-kumar-singh/ML-Assignment-2")[https://github.com/ranvir-kumar-singh/ML-Assignment-2] \
-    *Final Commit Hash:* `PLACEHOLDER_COMMIT_HASH`
+    *Final Commit Hash:* `5c302ae5f09d05ace48d526326a371a69aef55e8`
   ]
   #v(1.0em)
 ]
