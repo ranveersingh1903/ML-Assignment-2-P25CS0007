@@ -66,7 +66,7 @@
   #v(0.4em)
   #text(9pt)[
     *GitHub Repository:* #link("https://github.com/ranveersingh1903/ML-Assignment-2-P25CS0007")[https://github.com/ranveersingh1903/ML-Assignment-2-P25CS0007] \
-    *Final Commit Hash:* `5c302ae5f09d05ace48d526326a371a69aef55e8`
+    *Final Commit Hash:* `3546e72dff2c4370381742e5773f10e744b35976`
   ]
   #v(1.0em)
 ]
