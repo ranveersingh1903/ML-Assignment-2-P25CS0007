@@ -65,7 +65,7 @@
   #text(9pt, style: "italic")[Department of Computer Science and Engineering] \
   #v(0.4em)
   #text(9pt)[
-    *GitHub Repository:* #link("https://github.com/ranvir-kumar-singh/ML-Assignment-2")[https://github.com/ranvir-kumar-singh/ML-Assignment-2] \
+    *GitHub Repository:* #link("https://github.com/ranveersingh1903/ML-Assignment-2-P25CS0007")[https://github.com/ranveersingh1903/ML-Assignment-2-P25CS0007] \
     *Final Commit Hash:* `5c302ae5f09d05ace48d526326a371a69aef55e8`
   ]
   #v(1.0em)

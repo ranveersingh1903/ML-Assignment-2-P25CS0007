@@ -134,10 +134,10 @@ The resulting `ML_Assignment_2_Report.pdf` conforms strictly to:
 
 When you are ready to upload this codebase to your GitHub repository:
 
-1. Create a new repository on [GitHub](https://github.com/new) (e.g. `ML-Assignment-2`).
+1. Repository Link: [https://github.com/ranveersingh1903/ML-Assignment-2-P25CS0007](https://github.com/ranveersingh1903/ML-Assignment-2-P25CS0007)
 2. Run the following terminal commands:
    ```bash
-   git remote add origin https://github.com/<your-username>/<your-repo-name>.git
+   git remote add origin https://github.com/ranveersingh1903/ML-Assignment-2-P25CS0007.git
    git branch -M main
    git push -u origin main
    ```
